@@ -12,6 +12,11 @@ O jogador controla um canhão que atira em caixas que estão caindo, mas ele tem
 
 Inserir imagens do jogo.
 
+https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/caixa.png
+https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/canhao.png
+https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/preda.png
+https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/Untitled-1.png
+
 # Link no Itch IO para o download dos executáveis do jogo:
 
 Colocar o link no Itch IO.
