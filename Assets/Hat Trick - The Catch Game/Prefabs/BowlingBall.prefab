@@ -23,9 +23,10 @@ GameObject:
   - component: {fileID: 50861950315302684}
   - component: {fileID: 58477779967399052}
   - component: {fileID: 61584549903944146}
+  - component: {fileID: 114529599250294854}
   m_Layer: 0
-  m_Name: BowlingBall 1
-  m_TagString: Untagged
+  m_Name: BowlingBall
+  m_TagString: Tiro
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -103,6 +104,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 7.2, y: 7.2}
   m_EdgeRadius: 0
+--- !u!114 &114529599250294854
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1134810316174138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 167d3a31abcfce946a94072449f47b09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vida: 1
 --- !u!212 &212223912744898082
 SpriteRenderer:
   m_ObjectHideFlags: 1

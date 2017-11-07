@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Hat
   - Bomb
+  - Tiro
   layers:
   - Default
   - TransparentFX

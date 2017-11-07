@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hat Trick - The Catch Game/_Scenes/Hat Trick.unity
+    guid: efdaf60f95cc44fc590b061685495823

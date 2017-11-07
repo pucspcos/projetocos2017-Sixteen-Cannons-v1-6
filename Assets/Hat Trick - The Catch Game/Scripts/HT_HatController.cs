@@ -23,7 +23,7 @@ public class HT_HatController : MonoBehaviour
         Vector3 upperCorner = new Vector3(Screen.width, Screen.height, 0.0f);
         Vector3 targetWidth = cam.ScreenToWorldPoint(upperCorner);
         float hatWidth = GetComponent<Renderer>().bounds.extents.x;
-        maxWidth = targetWidth.x - hatWidth;
+        maxWidth = targetWidth.x - (hatWidth / 4);
         canControl = false;
     }
 

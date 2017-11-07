@@ -7,31 +7,57 @@ public class HT_Score : MonoBehaviour
     public GUIText scoreText;
     public int ballValue;
 
-    private int score;
 
-    void Start()
+    void Update()
     {
-        score = 0;
-        UpdateScore();
+        //UpdateScore();
+        scoreText.text = "SCORE:\n" + PersistenteData.Score;
+        //scoreText.text = "Score: " + PersistenteData.Score;
     }
 
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        score += ballValue;
-        UpdateScore();
-    }
+    //public void ganhar()
+    //{
+    //    score++;
+    //    UpdateScore();
 
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Bomb")
-        {
-            score = score - 2;
-            UpdateScore();
-        }
-    }
+    //}
+    //public void perder()
+    //{
+    //    score = score - 2;
+    //    UpdateScore();
+    //}
 
-    void UpdateScore()
-    {
-        scoreText.text = "SCORE:\n" + score;
-    }
+    //void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    score += ballValue;
+    //    UpdateScore();
+    //}
+
+    //void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //if (collision.gameObject.tag == "Bomb")
+    //{
+    //    score = score - 2;
+    //    UpdateScore();
+    //}
+    //}
+
+    //void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    if (other.gameObject.tag == "Tiro")
+    //    {
+    //        score = score + 1;
+    //        UpdateScore();
+    //    }
+    //    if (other.gameObject.tag == "Bomb")
+    //    {
+    //        score = score - 2;
+    //        UpdateScore();
+    //    }
+    //}
+
+    //public void UpdateScore()
+    //{
+    //    scoreText.text = "SCORE:\n" + score;
+    //}
 }

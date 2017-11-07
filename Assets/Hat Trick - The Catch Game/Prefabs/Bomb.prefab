@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 50379159145126854}
   - component: {fileID: 114155408041638522}
   m_Layer: 0
-  m_Name: Bomb (1)
+  m_Name: Bomb
   m_TagString: Bomb
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86,7 +86,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1023244507276706}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.3294, y: -6.879957, z: 0}
+  m_LocalPosition: {x: 15.26248, y: 3.0113032, z: 23.17}
   m_LocalScale: {x: 0.40243757, y: 0.40243754, z: 0.40243754}
   m_Children:
   - {fileID: 4974460957368194}
@@ -139,9 +139,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.00014573931, y: 0}
   serializedVersion: 2
-  m_Radius: 0.62
+  m_Radius: 1.8963159
 --- !u!114 &114155408041638522
 MonoBehaviour:
   m_ObjectHideFlags: 1
