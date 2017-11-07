@@ -16,6 +16,7 @@ https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/caix
 https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/canhao.png
 https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/preda.png
 https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/Untitled-1.png
+https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/print.png
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
