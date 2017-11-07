@@ -19,4 +19,4 @@ https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/Unti
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
-Colocar o link no Itch IO.
+https://henryquel.itch.io/sixteen-cannon
