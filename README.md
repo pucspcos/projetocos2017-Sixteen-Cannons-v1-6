@@ -21,3 +21,17 @@ https://github.com/pucspcos/projetocos2017-Sixteen-Cannons-v1-6/blob/master/prin
 # Link no Itch IO para o download dos executáveis do jogo:
 
 https://henryquel.itch.io/sixteen-cannon
+
+
+# O grande acidente
+
+O jogador vai escolhendo o caminho da narrativa, explorando a historia
+
+# Nome compledo dos integrantes do projeto:
+
+* Henrique Leite De Azevedo
+* Gabriel Jose Carqueijeiro Ferreira Teixeira
+
+# Link no Itch IO para o download dos executáveis do jogo:
+
+https://henryquel.itch.io/o-grande-acidente
